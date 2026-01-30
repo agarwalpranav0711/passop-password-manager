@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🔐 PassOP – Password Manager
 
 PassOP is a clean, responsive password manager web app built using **React** and **Tailwind CSS**. It allows users to securely store, view, edit, and delete passwords directly in the browser using `localStorage`.
@@ -32,6 +29,7 @@ PassOP is a clean, responsive password manager web app built using **React** and
 ---
 
 ## 📸 Screenshots
+
 
 
 ---
@@ -71,7 +69,6 @@ passop-password-manager/
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
-
 ```
 
 ---
@@ -81,29 +78,25 @@ passop-password-manager/
 1️⃣ **Clone the repository**
 
 ```bash
-git clone [https://github.com/agarwalpranav0711/passop-password-manager.git](https://github.com/agarwalpranav0711/passop-password-manager.git)
-
+git clone https://github.com/agarwalpranav0711/passop-password-manager.git
 ```
 
 2️⃣ **Navigate into the project**
 
 ```bash
 cd passop-password-manager
-
 ```
 
 3️⃣ **Install dependencies**
 
 ```bash
 npm install
-
 ```
 
 4️⃣ **Start the development server**
 
 ```bash
 npm run dev
-
 ```
 
 The app will run at: `http://localhost:5173`
@@ -126,8 +119,6 @@ The app will run at: `http://localhost:5173`
 > * ❌ Does **NOT** use authentication.
 > * ❌ Stores data in plain text in the browser.
 > **Do not use this for real-world passwords.**
-> 
-> 
 
 ---
 
@@ -145,9 +136,8 @@ The app will run at: `http://localhost:5173`
 
 **Pranav Agarwal**
 
-* GitHub: [@agarwalpranav0711](https://www.google.com/search?q=https://github.com/agarwalpranav0711)
+* GitHub: [@agarwalpranav0711](https://github.com/agarwalpranav0711)
 
 ---
 
 ⭐ **If you like this project, give it a star on GitHub!**
-
